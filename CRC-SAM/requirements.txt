@@ -1,0 +1,12 @@
+torch>=2.0
+torchvision>=0.15
+numpy>=1.24
+matplotlib
+scikit-image
+SimpleITK
+nibabel
+tqdm
+scipy
+opencv-python
+monai
+connected-components-3d
