@@ -13,7 +13,7 @@ Official implementation of:
 CRC-SAM adapts the Segment Anything Model (SAM) for **automatic, prompt-free** colorectal cancer segmentation across three imaging modalities—**CT**, **colonoscopy**, and **histopathology**—using Low-Rank Adaptation (LoRA) and a learnable default prompt embedding.
 
 <p align="center">
-  <img src="crc-sam/assets/architecture.png" width="85%" alt="CRC-SAM Architecture">
+  <img src="CRC-SAM/assets/architecture.png" width="85%" alt="CRC-SAM Architecture">
 </p>
 
 ## Highlights
